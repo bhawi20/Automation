@@ -9,6 +9,7 @@ public class Arithmetic
 		int c;
 		c=a+b;
 		System.out.println("Sum is " +c);
+		System.out.println("I am sharing the latest code");
 		return c ;
 		
 	}
